@@ -1,0 +1,52 @@
+Java input/output?
+
+How to get input from java?
+
+package: Java.util.Sacanner;
+
+Java OOPS:
+
+1. class & Object
+2. Abstraction
+3. Encapsulation
+4. Polymorphism
+5. Inheritance
+
+Constructor
+*Class name and function name same
+*function wil be invoke automatically while object creating of class
+\*Types:Default,Parameteriesd and private constructor
+
+Final Keyword
+
+- Prevent override method
+- prevent extend class
+- prevent modify variable value
+
+Abstract class
+
+- cannot create obejct for abstract class
+- Always abstract class should be inherited
+- using subclass object can access abstract class methods
+- it wil have abstract and non-abstract method
+- abstract method should be implemented in sub class
+
+Exception Handling:
+
+- Try block - actual logic should go
+- Catch block - Exception handled by in runtime
+- finally block - Always excuted
+
+Syntax:
+try{
+//codes
+}
+catch(Exception ex){
+//codes
+}
+finally{
+
+}
+
+1. Compilation Errors
+2. Runtime Errors
